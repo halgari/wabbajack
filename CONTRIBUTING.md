@@ -28,7 +28,7 @@ Enhancements can be everything from fixing typos to a complete revamp of documen
 
 This is where the fun begins. Wabbajack is programmed in C# so having a decent amount of knowledge in that language or in C/C++ is good to have. You also want to make sure that you have a basic understanding of the Git workflow.
 
-#### Visual Studio 2019
+#### Visual Studio 2022
 
 You can download it [here](https://visualstudio.microsoft.com/vs/) but make sure to select the Community Edition as the other ones come at a cost. When installing Visual Studio you will be prompted to select a Workload and components. You will need the following:
 
